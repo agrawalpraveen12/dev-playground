@@ -18,3 +18,4 @@
 [2025-01-08] chore: update config
 [2025-01-09] docs: improve documentation
 [2025-01-09] refactor: clean up code
+[2025-01-09] style: format files
