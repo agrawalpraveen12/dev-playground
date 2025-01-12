@@ -24,3 +24,4 @@
 [2025-01-11] fix: patch edge case
 [2025-01-11] feat: enhance component
 [2025-01-12] docs: update notes
+[2025-01-12] chore: cleanup task
