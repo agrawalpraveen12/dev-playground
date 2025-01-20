@@ -42,3 +42,4 @@
 [2025-01-19] chore: cleanup task
 [2025-01-19] fix: correct logic
 [2025-01-20] feat: improve performance
+[2025-01-20] chore: version update
