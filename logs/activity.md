@@ -48,3 +48,4 @@
 [2025-01-21] chore: update config
 [2025-01-21] docs: improve documentation
 [2025-01-21] refactor: clean up code
+[2025-01-23] style: format files
