@@ -77,3 +77,4 @@
 [2025-02-09] feat: add new feature
 [2025-02-10] chore: update config
 [2025-02-11] docs: improve documentation
+[2025-02-11] refactor: clean up code
