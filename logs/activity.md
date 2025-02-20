@@ -88,3 +88,4 @@
 [2025-02-19] fix: correct logic
 [2025-02-19] feat: improve performance
 [2025-02-20] chore: version update
+[2025-02-20] fix: resolve minor issue
