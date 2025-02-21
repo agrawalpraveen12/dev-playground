@@ -93,3 +93,4 @@
 [2025-02-21] chore: update config
 [2025-02-21] docs: improve documentation
 [2025-02-21] refactor: clean up code
+[2025-02-21] style: format files
