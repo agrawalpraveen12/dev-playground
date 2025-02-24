@@ -96,3 +96,4 @@
 [2025-02-21] style: format files
 [2025-02-22] test: add test cases
 [2025-02-22] chore: routine maintenance
+[2025-02-24] fix: patch edge case
