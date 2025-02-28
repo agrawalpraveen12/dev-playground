@@ -105,3 +105,4 @@
 [2025-02-26] chore: version update
 [2025-02-27] fix: resolve minor issue
 [2025-02-28] feat: add new feature
+[2025-02-28] chore: update config
