@@ -120,3 +120,4 @@
 [2025-03-02] chore: version update
 [2025-03-02] fix: resolve minor issue
 [2025-03-02] feat: add new feature
+[2025-03-03] chore: update config
