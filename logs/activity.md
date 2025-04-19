@@ -180,3 +180,4 @@
 [2025-04-17] chore: version update
 [2025-04-19] fix: resolve minor issue
 [2025-04-19] feat: add new feature
+[2025-04-19] chore: update config
