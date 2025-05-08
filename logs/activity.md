@@ -216,3 +216,4 @@
 [2025-05-08] style: format files
 [2025-05-08] test: add test cases
 [2025-05-08] chore: routine maintenance
+[2025-05-08] fix: patch edge case
