@@ -238,3 +238,4 @@
 [2025-05-15] fix: correct logic
 [2025-05-15] feat: improve performance
 [2025-05-16] chore: version update
+[2025-05-17] fix: resolve minor issue
