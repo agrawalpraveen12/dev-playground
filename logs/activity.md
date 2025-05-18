@@ -240,3 +240,4 @@
 [2025-05-16] chore: version update
 [2025-05-17] fix: resolve minor issue
 [2025-05-18] feat: add new feature
+[2025-05-18] chore: update config
