@@ -254,3 +254,4 @@
 [2025-05-29] feat: improve performance
 [2025-05-29] chore: version update
 [2025-05-29] fix: resolve minor issue
+[2025-05-29] feat: add new feature
