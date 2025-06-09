@@ -270,3 +270,4 @@
 [2025-06-09] chore: version update
 [2025-06-09] fix: resolve minor issue
 [2025-06-09] feat: add new feature
+[2025-06-09] chore: update config
