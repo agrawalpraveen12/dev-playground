@@ -301,3 +301,4 @@
 [2025-06-23] fix: resolve minor issue
 [2025-06-23] feat: add new feature
 [2025-06-23] chore: update config
+[2025-06-23] docs: improve documentation
