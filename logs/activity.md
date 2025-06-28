@@ -313,3 +313,4 @@
 [2025-06-25] fix: correct logic
 [2025-06-25] feat: improve performance
 [2025-06-27] chore: version update
+[2025-06-28] fix: resolve minor issue
