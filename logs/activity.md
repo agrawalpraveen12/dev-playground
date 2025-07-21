@@ -352,3 +352,4 @@
 [2025-07-17] test: add test cases
 [2025-07-19] chore: routine maintenance
 [2025-07-21] fix: patch edge case
+[2025-07-21] feat: enhance component
