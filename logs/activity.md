@@ -358,3 +358,4 @@
 [2025-07-22] fix: correct logic
 [2025-07-23] feat: improve performance
 [2025-07-23] chore: version update
+[2025-07-23] fix: resolve minor issue
