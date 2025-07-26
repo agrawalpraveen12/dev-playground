@@ -360,3 +360,4 @@
 [2025-07-23] chore: version update
 [2025-07-23] fix: resolve minor issue
 [2025-07-24] feat: add new feature
+[2025-07-26] chore: update config
