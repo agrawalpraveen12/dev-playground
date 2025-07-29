@@ -370,3 +370,4 @@
 [2025-07-29] feat: enhance component
 [2025-07-29] docs: update notes
 [2025-07-29] chore: cleanup task
+[2025-07-29] fix: correct logic
