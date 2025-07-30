@@ -375,3 +375,4 @@
 [2025-07-29] chore: version update
 [2025-07-29] fix: resolve minor issue
 [2025-07-30] feat: add new feature
+[2025-07-30] chore: update config
