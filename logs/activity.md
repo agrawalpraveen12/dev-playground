@@ -376,3 +376,4 @@
 [2025-07-29] fix: resolve minor issue
 [2025-07-30] feat: add new feature
 [2025-07-30] chore: update config
+[2025-07-31] docs: improve documentation
