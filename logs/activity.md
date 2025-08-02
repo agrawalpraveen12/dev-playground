@@ -378,3 +378,4 @@
 [2025-07-30] chore: update config
 [2025-07-31] docs: improve documentation
 [2025-08-02] refactor: clean up code
+[2025-08-02] style: format files
