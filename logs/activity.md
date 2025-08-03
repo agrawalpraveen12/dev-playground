@@ -379,3 +379,4 @@
 [2025-07-31] docs: improve documentation
 [2025-08-02] refactor: clean up code
 [2025-08-02] style: format files
+[2025-08-03] test: add test cases
