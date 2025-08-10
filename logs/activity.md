@@ -391,3 +391,4 @@
 [2025-08-10] fix: resolve minor issue
 [2025-08-10] feat: add new feature
 [2025-08-10] chore: update config
+[2025-08-10] docs: improve documentation
