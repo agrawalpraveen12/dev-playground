@@ -390,3 +390,4 @@
 [2025-08-10] chore: version update
 [2025-08-10] fix: resolve minor issue
 [2025-08-10] feat: add new feature
+[2025-08-10] chore: update config
