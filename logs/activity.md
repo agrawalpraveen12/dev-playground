@@ -388,3 +388,4 @@
 [2025-08-10] fix: correct logic
 [2025-08-10] feat: improve performance
 [2025-08-10] chore: version update
+[2025-08-10] fix: resolve minor issue
