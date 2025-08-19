@@ -398,3 +398,4 @@
 [2025-08-13] chore: routine maintenance
 [2025-08-13] fix: patch edge case
 [2025-08-13] feat: enhance component
+[2025-08-19] docs: update notes
