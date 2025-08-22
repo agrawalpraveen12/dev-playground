@@ -401,3 +401,4 @@
 [2025-08-19] docs: update notes
 [2025-08-20] chore: cleanup task
 [2025-08-20] fix: correct logic
+[2025-08-22] feat: improve performance
