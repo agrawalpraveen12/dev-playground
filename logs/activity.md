@@ -404,3 +404,4 @@
 [2025-08-22] feat: improve performance
 [2025-08-23] chore: version update
 [2025-08-27] fix: resolve minor issue
+[2025-08-27] feat: add new feature
