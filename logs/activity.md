@@ -403,3 +403,4 @@
 [2025-08-20] fix: correct logic
 [2025-08-22] feat: improve performance
 [2025-08-23] chore: version update
+[2025-08-27] fix: resolve minor issue
