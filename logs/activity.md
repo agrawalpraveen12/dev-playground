@@ -424,3 +424,4 @@
 [2025-09-04] docs: improve documentation
 [2025-09-04] refactor: clean up code
 [2025-09-04] style: format files
+[2025-09-06] test: add test cases
