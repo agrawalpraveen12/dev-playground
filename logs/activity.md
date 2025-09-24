@@ -451,3 +451,4 @@
 [2025-09-22] fix: resolve minor issue
 [2025-09-22] feat: add new feature
 [2025-09-24] chore: update config
+[2025-09-24] docs: improve documentation
