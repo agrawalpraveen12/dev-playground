@@ -460,3 +460,4 @@
 [2025-09-25] feat: enhance component
 [2025-09-25] docs: update notes
 [2025-09-26] chore: cleanup task
+[2025-09-26] fix: correct logic
