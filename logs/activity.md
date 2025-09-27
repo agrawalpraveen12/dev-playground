@@ -465,3 +465,4 @@
 [2025-09-26] chore: version update
 [2025-09-26] fix: resolve minor issue
 [2025-09-27] feat: add new feature
+[2025-09-27] chore: update config
