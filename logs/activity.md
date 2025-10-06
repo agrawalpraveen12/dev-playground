@@ -480,3 +480,4 @@
 [2025-10-06] chore: version update
 [2025-10-06] fix: resolve minor issue
 [2025-10-06] feat: add new feature
+[2025-10-06] chore: update config
