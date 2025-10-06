@@ -478,3 +478,4 @@
 [2025-10-03] fix: correct logic
 [2025-10-06] feat: improve performance
 [2025-10-06] chore: version update
+[2025-10-06] fix: resolve minor issue
