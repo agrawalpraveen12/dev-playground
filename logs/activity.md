@@ -495,3 +495,4 @@
 [2025-10-09] chore: version update
 [2025-10-09] fix: resolve minor issue
 [2025-10-11] feat: add new feature
+[2025-10-11] chore: update config
