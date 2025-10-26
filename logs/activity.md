@@ -520,3 +520,4 @@
 [2025-10-26] feat: enhance component
 [2025-10-26] docs: update notes
 [2025-10-26] chore: cleanup task
+[2025-10-26] fix: correct logic
