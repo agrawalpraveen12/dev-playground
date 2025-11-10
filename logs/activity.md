@@ -540,3 +540,4 @@
 [2025-11-08] chore: version update
 [2025-11-10] fix: resolve minor issue
 [2025-11-10] feat: add new feature
+[2025-11-10] chore: update config
