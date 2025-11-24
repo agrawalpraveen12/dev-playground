@@ -555,3 +555,4 @@
 [2025-11-23] chore: version update
 [2025-11-24] fix: resolve minor issue
 [2025-11-24] feat: add new feature
+[2025-11-24] chore: update config
