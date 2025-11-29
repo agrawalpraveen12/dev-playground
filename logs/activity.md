@@ -559,3 +559,4 @@
 [2025-11-29] docs: improve documentation
 [2025-11-29] refactor: clean up code
 [2025-11-29] style: format files
+[2025-11-29] test: add test cases
