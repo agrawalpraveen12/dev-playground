@@ -569,3 +569,4 @@
 [2025-11-30] feat: improve performance
 [2025-11-30] chore: version update
 [2025-11-30] fix: resolve minor issue
+[2025-12-01] feat: add new feature
