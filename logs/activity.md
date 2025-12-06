@@ -581,3 +581,4 @@
 [2025-12-04] docs: update notes
 [2025-12-06] chore: cleanup task
 [2025-12-06] fix: correct logic
+[2025-12-06] feat: improve performance
