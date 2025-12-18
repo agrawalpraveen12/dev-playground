@@ -604,3 +604,4 @@
 [2025-12-15] docs: improve documentation
 [2025-12-18] refactor: clean up code
 [2025-12-18] style: format files
+[2025-12-18] test: add test cases
