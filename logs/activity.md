@@ -615,3 +615,4 @@
 [2025-12-26] chore: version update
 [2025-12-26] fix: resolve minor issue
 [2025-12-27] feat: add new feature
+[2025-12-28] chore: update config
