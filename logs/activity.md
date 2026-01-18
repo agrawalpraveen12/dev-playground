@@ -645,3 +645,4 @@
 [2026-01-12] chore: version update
 [2026-01-16] fix: resolve minor issue
 [2026-01-17] feat: add new feature
+[2026-01-18] chore: update config
