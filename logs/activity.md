@@ -649,3 +649,4 @@
 [2026-01-18] docs: improve documentation
 [2026-01-18] refactor: clean up code
 [2026-01-18] style: format files
+[2026-01-20] test: add test cases
