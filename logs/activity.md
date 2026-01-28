@@ -660,3 +660,4 @@
 [2026-01-24] chore: version update
 [2026-01-24] fix: resolve minor issue
 [2026-01-26] feat: add new feature
+[2026-01-28] chore: update config
