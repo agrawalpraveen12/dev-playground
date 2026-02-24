@@ -705,3 +705,4 @@
 [2026-02-23] chore: version update
 [2026-02-23] fix: resolve minor issue
 [2026-02-24] feat: add new feature
+[2026-02-24] chore: update config
