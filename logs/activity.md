@@ -764,3 +764,4 @@
 [2026-03-19] feat: improve performance
 [2026-03-21] chore: version update
 [2026-03-21] fix: resolve minor issue
+[2026-03-21] feat: add new feature
