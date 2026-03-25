@@ -769,3 +769,4 @@
 [2026-03-22] docs: improve documentation
 [2026-03-22] refactor: clean up code
 [2026-03-25] style: format files
+[2026-03-25] test: add test cases
