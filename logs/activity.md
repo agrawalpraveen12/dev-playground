@@ -781,3 +781,4 @@
 [2026-03-29] fix: resolve minor issue
 [2026-03-29] feat: add new feature
 [2026-03-29] chore: update config
+[2026-03-29] docs: improve documentation
