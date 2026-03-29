@@ -778,3 +778,4 @@
 [2026-03-28] fix: correct logic
 [2026-03-29] feat: improve performance
 [2026-03-29] chore: version update
+[2026-03-29] fix: resolve minor issue
