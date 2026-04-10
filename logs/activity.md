@@ -796,3 +796,4 @@
 [2026-04-09] fix: resolve minor issue
 [2026-04-09] feat: add new feature
 [2026-04-10] chore: update config
+[2026-04-10] docs: improve documentation
