@@ -835,3 +835,4 @@
 [2026-04-26] feat: enhance component
 [2026-04-26] docs: update notes
 [2026-04-26] chore: cleanup task
+[2026-04-29] fix: correct logic
