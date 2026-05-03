@@ -839,3 +839,4 @@
 [2026-04-29] feat: improve performance
 [2026-04-29] chore: version update
 [2026-04-30] fix: resolve minor issue
+[2026-05-03] feat: add new feature
