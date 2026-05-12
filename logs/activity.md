@@ -848,3 +848,4 @@
 [2026-05-07] chore: routine maintenance
 [2026-05-07] fix: patch edge case
 [2026-05-10] feat: enhance component
+[2026-05-12] docs: update notes
