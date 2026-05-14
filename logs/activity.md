@@ -854,3 +854,4 @@
 [2026-05-12] feat: improve performance
 [2026-05-12] chore: version update
 [2026-05-14] fix: resolve minor issue
+[2026-05-14] feat: add new feature
