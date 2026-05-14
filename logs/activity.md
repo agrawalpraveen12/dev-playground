@@ -853,3 +853,4 @@
 [2026-05-12] fix: correct logic
 [2026-05-12] feat: improve performance
 [2026-05-12] chore: version update
+[2026-05-14] fix: resolve minor issue
