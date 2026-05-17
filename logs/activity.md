@@ -859,3 +859,4 @@
 [2026-05-15] docs: improve documentation
 [2026-05-15] refactor: clean up code
 [2026-05-17] style: format files
+[2026-05-17] test: add test cases
