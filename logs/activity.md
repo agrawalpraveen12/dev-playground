@@ -861,3 +861,4 @@
 [2026-05-17] style: format files
 [2026-05-17] test: add test cases
 [2026-05-17] chore: routine maintenance
+[2026-05-20] fix: patch edge case
