@@ -868,3 +868,4 @@
 [2026-05-22] fix: correct logic
 [2026-05-24] feat: improve performance
 [2026-05-24] chore: version update
+[2026-05-24] fix: resolve minor issue
