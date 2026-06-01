@@ -877,3 +877,4 @@
 [2026-05-31] test: add test cases
 [2026-05-31] chore: routine maintenance
 [2026-05-31] fix: patch edge case
+[2026-06-01] feat: enhance component
