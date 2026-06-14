@@ -898,3 +898,4 @@
 [2026-06-14] fix: correct logic
 [2026-06-14] feat: improve performance
 [2026-06-14] chore: version update
+[2026-06-14] fix: resolve minor issue
