@@ -913,3 +913,4 @@
 [2026-06-20] fix: correct logic
 [2026-06-20] feat: improve performance
 [2026-06-20] chore: version update
+[2026-06-21] fix: resolve minor issue
