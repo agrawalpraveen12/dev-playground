@@ -915,3 +915,4 @@
 [2026-06-20] chore: version update
 [2026-06-21] fix: resolve minor issue
 [2026-06-21] feat: add new feature
+[2026-06-23] chore: update config
