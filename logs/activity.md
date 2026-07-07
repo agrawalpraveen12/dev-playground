@@ -943,3 +943,4 @@
 [2026-07-07] fix: correct logic
 [2026-07-07] feat: improve performance
 [2026-07-07] chore: version update
+[2026-07-07] fix: resolve minor issue
